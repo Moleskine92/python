@@ -1,0 +1,1 @@
+print("Do you feeling lucky, punk?")
